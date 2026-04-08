@@ -269,7 +269,7 @@ Fonts: Google Fonts (Poppins, Plus Jakarta Sans)
 Inspiration: Rwanda's rich cultural heritage and natural beauty
 
 📞 Contact
-Project Link: https://github.com/yourusername/rwanda-explorer
+Project Link: https://github.com/witfab-dev/rwanda-explorer-game
 
 <p align="center"> Made with ❤️ for Rwanda - Land of a Thousand Hills </p><p align="center"> <img src="https://img.shields.io/badge/Made%20with-Vue.js-42b883?style=for-the-badge&logo=vue.js" alt="Made with Vue.js"> </p> ```
 Additional Files
