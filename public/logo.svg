@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="45" fill="#1b4332" stroke="#fbbf24" stroke-width="4"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#fbbf24" stroke-width="1" stroke-dasharray="2,2"/>
+  
+  <text x="50" y="20" font-family="Arial, sans-serif" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">N</text>
+  
+  <path d="M50,25 L58,50 L50,75 L42,50 Z" fill="#fbbf24" stroke="#ffffff" stroke-width="1"/>
+  <path d="M50,50 L50,75" stroke="#1b4332" stroke-width="1"/> </svg>
